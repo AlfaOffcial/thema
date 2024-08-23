@@ -1,8 +1,8 @@
 # Theme
 JANGAN DIJUAL BELAKAN YE BWANG !!!
 BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/fadhost <<
+>> https://t.me/alfaofficial9163
 
-Comand Run Install Thema
+Comand Run Install
 
-bash <(curl https://raw.githubusercontent.com/gitfdil1248/thema/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/AlfaOffcial/thema/main/install.sh)
