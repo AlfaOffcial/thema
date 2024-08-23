@@ -69,7 +69,7 @@ check_token() {
     echo -e "${YELLOW}TELEGRAM : @alfaofficial9163${NC}"
     echo -e "${YELLOW}WHATSAPP : 6282226769163${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©FadhostOffc${NC}"
+    echo -e "${YELLOW}©alfaofficial${NC}"
     exit 1
   fi
   clear
