@@ -1,8 +1,5 @@
 # Theme
 JANGAN DIJUAL BELAKAN YE BWANG !!!
-BUTUH LICENSE/PW CHAT TELE GUA
+BUTUH LICENSE/PW/BASH CHAT TELE GUA
 >> https://t.me/alfaofficial9163
-
-Comand Run Install
-
-bash <(curl https://raw.githubusercontent.com/AlfaOffcial/thema/main/install.sh)
+>> https://wa.me/message/MKC4ITVBQ57IJ1
